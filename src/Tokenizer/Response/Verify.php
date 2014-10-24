@@ -10,7 +10,7 @@
  * @homepage http://amsterdamstandard.com
  */
 
-namespace Tokenizer\Response;
+namespace AmsterdamStandard\Tokenizer\Response;
 
 class Verify {
     

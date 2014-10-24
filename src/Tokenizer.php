@@ -1,5 +1,7 @@
 <?php
 
+namespace AmsterdamStandard;
+
 /**
  * PHP Tokenizer Class
  *
@@ -7,8 +9,8 @@
  * @copyright Amsterdam Standard
  * @homepage http://amsterdamstandard.com
  */
-use Tokenizer\Exception as Exception,
-    Tokenizer\Connector as Connector;
+use AmsterdamStandard\Tokenizer\Exception as Exception,
+    AmsterdamStandard\Tokenizer\Connector as Connector;
 
 class Tokenizer {
 

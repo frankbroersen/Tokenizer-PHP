@@ -10,7 +10,7 @@
  * @homepage http://amsterdamstandard.com
  */
 
-namespace Tokenizer;
+namespace AmsterdamStandard\Tokenizer;
 
 class Response {
     

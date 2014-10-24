@@ -10,11 +10,9 @@
  * @homepage http://amsterdamstandard.com
  */
 
-namespace Tokenizer;
+namespace AmsterdamStandard\Tokenizer;
 
-use Tokenizer\Response\Create,
-    Tokenizer\Response\Verify,
-    Tokenizer\Response;
+use Response;
 
 class Connector {
 
