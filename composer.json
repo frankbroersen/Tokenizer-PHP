@@ -1,13 +1,22 @@
 {
     "name": "tokenizer/php",
+    "type": "library",
+    "license": "MIT",
     "description": "Tokenizer api wrapper for PHP",
-    "author": "Frank Broersen",
+    "authors": [
+        {
+            "name": "Frank Broersen",
+            "email": "frank@amsterdamstandard.com"
+        }
+    ],
     "require": {
         "php": ">=5.4.0",
         "ext-curl": "*",
         "ext-json": "*"
     },
     "autoload": {
-        "classmap": ["src/Tokenizer/"]
+        "psr-4": {
+            "Vegas\\": "src/"
+        }
     }
 }
