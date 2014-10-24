@@ -1,6 +1,7 @@
 {
     "name": "tokenizer/php",
     "description": "Tokenizer api wrapper for PHP",
+    "author": "Frank Broersen",
     "require": {
         "php": ">=5.4.0",
         "ext-curl": "*"
