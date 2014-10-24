@@ -1,5 +1,5 @@
 {
-    "name": "tokenizer/php",
+    "name": "tokenizer",
     "type": "library",
     "license": "MIT",
     "description": "Tokenizer api wrapper for PHP",
