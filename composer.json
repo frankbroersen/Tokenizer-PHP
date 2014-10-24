@@ -1,0 +1,8 @@
+{
+    "name": "amsterdam-standard/tokenizer-php",
+    "description": "Tokenizer api wrapper for PHP",
+    "require": {
+        "php": ">=5.4.0",
+        "ext-curl": "*"
+    }
+}
